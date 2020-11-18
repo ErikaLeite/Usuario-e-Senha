@@ -20,13 +20,12 @@ namespace Usuario_e_Senha
             senha = Console.ReadLine();
 
             while(senha == nome){
+                Console.WriteLine("   ");
                   Console.WriteLine("Insira uma senha válida:");
                   senha = Console.ReadLine();
-            
+            }          
+            Console.WriteLine("   ");
             Console.WriteLine("Login Efetivado!");
-            
-            
-            }
         }
     }   
 
