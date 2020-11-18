@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Usuario-e-Senha/1.0.0": {
+        "runtime": {
+          "Usuario-e-Senha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usuario-e-Senha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
